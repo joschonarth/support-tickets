@@ -8,5 +8,8 @@
   },
   "author": "João Otávio Schonarth",
   "license": "ISC",
-  "description": "Support Management API"
+  "description": "Support Management API",
+  "dependencies": {
+    "support-tickets": "file:"
+  }
 }
