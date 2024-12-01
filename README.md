@@ -4,8 +4,8 @@ Esta API foi desenvolvida para gerenciar tickets de suporte técnico, permitindo
 
 ## 🛠️ Tecnologias Utilizadas 
 
-- 🟢 **Node.js**: Ambiente de execução JavaScript para criar aplicações server-side, eficiente e escalável.
-- 🟡 **JavaScript**: Linguagem de programação usada para criar aplicações dinâmicas tanto no cliente quanto no servidor.
+- 🟢 **Node.js**: Utilizado como runtime para executar o JavaScript no servidor, fornecendo a base para construir a API de suporte técnico com alto desempenho e eficiência.
+- 🟡 **JavaScript**: Linguagem principal para desenvolvimento da lógica da API, manipulando requisições, respostas e implementando as funcionalidades de gerenciamento de tickets.
 
 ## ⚙️ Funcionalidades
 
